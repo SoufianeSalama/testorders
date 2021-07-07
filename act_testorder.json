@@ -1,0 +1,228 @@
+{
+    "brandOrderNumber": "LF19005736",
+    "orderItems": [
+        {
+            "partNumber": "8153614378",
+            "description": "GHS1900VSD+ SYNTHETIC",
+            "estimatedDeliveryDate": "10/11/2019",
+            "estimatedShippingDate": "28/10/2019",
+            "trackingInfo": {
+                "trackingNumber": "02631257785",
+                "trackingWebsite": "http://vision.mesca.com/Vision/EdiShipmentTracking.do?id=000000006e04783a016e12d365f87345"
+            },
+            "orderStatus": "DELIVERED",
+            "partiallyProcessed": null,
+            "quantity": 1,
+            "deliveryDate": "10/11/2019",
+            "shippingDate": "28/10/2019",
+            "invoiceNumbers": [
+                "0905090599"
+            ],
+            "accountingDocNumbers": [
+                "1119159669"
+            ],
+            "signerName": "SOUFIANE SALAMA"
+        },
+        {
+            "partNumber": "0000086750",
+            "description": "HWHC OPTION GHS1300-1900VP",
+            "estimatedDeliveryDate": "10/11/2019",
+            "estimatedShippingDate": "28/10/2019",
+            "trackingInfo": {
+                "trackingNumber": "02631257785",
+                "trackingWebsite": "http://vision.mesca.com/Vision/EdiShipmentTracking.do?id=000000006e04783a016e12d365f87345"
+            },
+            "orderStatus": "DELIVERED",
+            "partiallyProcessed": null,
+            "quantity": 1,
+            "deliveryDate": "10/11/2019",
+            "shippingDate": "28/10/2019",
+            "invoiceNumbers": [
+                "0905090599"
+            ],
+            "accountingDocNumbers": [
+                "1119159669"
+            ],
+            "signerName": "SOUFIANE SALAMA"
+        },
+        {
+            "partNumber": "8153614378",
+            "description": "GHS1900VSD+ SYNTHETIC",
+            "estimatedDeliveryDate": "05/11/2019",
+            "estimatedShippingDate": "28/10/2019",
+            "trackingInfo": {
+                "trackingNumber": "02631257785",
+                "trackingWebsite": "http://vision.mesca.com/Vision/EdiShipmentTracking.do?id=000000006e04783a016e12d365f87345"
+            },
+            "orderStatus": "SHIPPED",
+            "partiallyProcessed": null,
+            "quantity": 1,
+            "deliveryDate": "05/11/2019",
+            "shippingDate": "28/10/2019",
+            "invoiceNumbers": [
+                "0905090599"
+            ],
+            "accountingDocNumbers": [
+                "1119159669"
+            ],
+            "signerName": null
+        },
+        {
+            "partNumber": "0000086750",
+            "description": "HWHC OPTION GHS1300-1900VP",
+            "estimatedDeliveryDate": "05/11/2019",
+            "estimatedShippingDate": "28/10/2019",
+            "trackingInfo": {
+                "trackingNumber": "02631257785",
+                "trackingWebsite": "http://vision.mesca.com/Vision/EdiShipmentTracking.do?id=000000006e04783a016e12d365f87345"
+            },
+            "orderStatus": "SHIPPED",
+            "partiallyProcessed": null,
+            "quantity": 1,
+            "deliveryDate": "05/11/2019",
+            "shippingDate": "28/10/2019",
+            "invoiceNumbers": [
+                "0905090599"
+            ],
+            "accountingDocNumbers": [
+                "1119159669"
+            ],
+            "signerName": null
+        },
+        {
+            "partNumber": "8153614378",
+            "description": "GHS1900VSD+ SYNTHETIC",
+            "estimatedDeliveryDate": "05/11/2019",
+            "estimatedShippingDate": "28/10/2019",
+            "trackingInfo": {
+                "trackingNumber": "02631257785",
+                "trackingWebsite": "http://vision.mesca.com/Vision/EdiShipmentTracking.do?id=000000006e04783a016e12d365f87345"
+            },
+            "orderStatus": "SHIPPED",
+            "partiallyProcessed": null,
+            "quantity": 1,
+            "deliveryDate": "05/11/2019",
+            "shippingDate": "28/10/2019",
+            "invoiceNumbers": [
+                "0905090599"
+            ],
+            "accountingDocNumbers": [
+                "1119159669"
+            ],
+            "signerName": null
+        },
+        {
+            "partNumber": "0000086750",
+            "description": "HWHC OPTION GHS1300-1900VP",
+            "estimatedDeliveryDate": "05/11/2019",
+            "estimatedShippingDate": "28/10/2019",
+            "trackingInfo": {
+                "trackingNumber": "02631257785",
+                "trackingWebsite": "http://vision.mesca.com/Vision/EdiShipmentTracking.do?id=000000006e04783a016e12d365f87345"
+            },
+            "orderStatus": "SHIPPED",
+            "partiallyProcessed": null,
+            "quantity": 1,
+            "deliveryDate": "05/11/2019",
+            "shippingDate": "28/10/2019",
+            "invoiceNumbers": [
+                "0905090599"
+            ],
+            "accountingDocNumbers": [
+                "1119159669"
+            ],
+            "signerName": null
+        },
+        {
+            "partNumber": "8092300923",
+            "description": "ES6V ULCUL",
+            "estimatedDeliveryDate": "14/11/2019",
+            "estimatedShippingDate": "28/10/2019",
+            "trackingInfo": {
+                "trackingNumber": "02631257785",
+                "trackingWebsite": "http://vision.mesca.com/Vision/EdiShipmentTracking.do?id=000000006e04783a016e12d365f87345"
+            },
+            "orderStatus": "DELIVERED",
+            "partiallyProcessed": null,
+            "quantity": 1,
+            "deliveryDate": "14/11/2019",
+            "shippingDate": "28/10/2019",
+            "invoiceNumbers": [
+                "0905090599"
+            ],
+            "accountingDocNumbers": [
+                "1119159669"
+            ],
+            "signerName": "SOUFIANE SALAMA"
+        },
+        {
+            "partNumber": "8092284101",
+            "description": "4 MACHINE CAN KIT",
+            "estimatedDeliveryDate": "05/11/2019",
+            "estimatedShippingDate": "28/10/2019",
+            "trackingInfo": {
+                "trackingNumber": "02631257785",
+                "trackingWebsite": "http://vision.mesca.com/Vision/EdiShipmentTracking.do?id=000000006e04783a016e12d365f87345"
+            },
+            "orderStatus": "SHIPPED",
+            "partiallyProcessed": null,
+            "quantity": 1,
+            "deliveryDate": "05/11/2019",
+            "shippingDate": "28/10/2019",
+            "invoiceNumbers": [
+                "0905090599"
+            ],
+            "accountingDocNumbers": [
+                "1119159669"
+            ],
+            "signerName": null
+        },
+        {
+            "partNumber": "1312101319",
+            "description": "GHS1300-1900 VSD+ IN EXT FLTR",
+            "estimatedDeliveryDate": null,
+            "estimatedShippingDate": null,
+            "trackingInfo": null,
+            "orderStatus": "RECEIVED",
+            "partiallyProcessed": null,
+            "quantity": 3,
+            "deliveryDate": null,
+            "shippingDate": null,
+            "invoiceNumbers": [],
+            "accountingDocNumbers": [],
+            "signerName": null
+        },
+        {
+            "partNumber": "1312101318",
+            "description": "GHS1300-1900 VSD+ IN LIQ SEP",
+            "estimatedDeliveryDate": null,
+            "estimatedShippingDate": null,
+            "trackingInfo": null,
+            "orderStatus": "RECEIVED",
+            "partiallyProcessed": null,
+            "quantity": 3,
+            "deliveryDate": null,
+            "shippingDate": null,
+            "invoiceNumbers": [],
+            "accountingDocNumbers": [],
+            "signerName": null
+        }
+    ],
+    "customerPurchaseOrder": "LF19005736",
+    "salesOrderNumber": "0012623539",
+    "error": null,
+    "contact": {
+        "name": "SOUFIANE SALAMA",
+        "email": "soufiane.salama@test.com",
+        "telephone": "(803) 817-7418"
+    },
+    "division": "01",
+    "salesOrganization": "US10",
+    "digitalData": {
+        "orderInfo": {
+            "division": "01",
+            "salesOrganization": "US10",
+            "partnerNumber": "0100399605"
+        }
+    }
+}
