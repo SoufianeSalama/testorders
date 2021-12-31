@@ -1,0 +1,502 @@
+{
+"glow-up-bundle": {
+"jcr:created": "Tue Nov 23 2021 00:10:26 GMT+0000",
+"jcr:createdBy": "Stephanie_Smith@cotyinc.com",
+"jcr:primaryType": "cq:Page"
+},
+"hand-sanitizer-ks312": {
+"jcr:created": "Mon Jun 28 2021 08:18:40 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"kylie-skin-hair-clips-ks306": {
+"jcr:created": "Mon Jun 28 2021 08:18:42 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"kylie-skin-scrunchies-ks308": {
+"jcr:created": "Mon Jun 28 2021 08:18:43 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"kylie-skin-hair-towel-ks310": {
+"jcr:created": "Mon Jun 28 2021 08:18:45 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"kylie-skin-salon-clips-ks307": {
+"jcr:created": "Mon Jun 28 2021 08:18:46 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"kylie-skin-pouch-ks311": {
+"jcr:created": "Mon Jun 28 2021 08:18:48 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"lip-oil-kseu-139": {
+"jcr:created": "Mon Jul 19 2021 12:44:09 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"hand-cream-ks320": {
+"jcr:created": "Mon Jun 28 2021 08:18:50 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"face-mask-brush-ks208": {
+"jcr:created": "Mon Jun 28 2021 08:18:51 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"coconut-body-lotion-ks226": {
+"jcr:created": "Mon Jun 28 2021 08:18:53 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"rose-body-lotion-ks339": {
+"jcr:created": "Mon Jun 28 2021 08:18:53 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"reusable-cloth-pads-ks353": {
+"jcr:created": "Mon Jun 28 2021 08:18:54 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"gardenia-garden-candle-ks254": {
+"jcr:created": "Mon Jun 28 2021 08:18:56 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"tahitian-vanilla-coconut-candle-ks255": {
+"jcr:created": "Mon Jun 28 2021 08:18:56 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"8-piece-mini-set-ks248": {
+"jcr:created": "Mon Jun 28 2021 08:18:56 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"lip-oil-ks139": {
+"jcr:created": "Mon Jun 28 2021 08:18:57 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"kylie-skin-mini-fridge-ks205": {
+"jcr:created": "Mon Jun 28 2021 08:18:58 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"rose-bath-salts-ks213": {
+"jcr:created": "Mon Jun 28 2021 08:18:59 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"melting-makeup-cleanser-ks216": {
+"jcr:created": "Mon Jun 28 2021 08:18:59 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"rose-bubble-bath-ks214": {
+"jcr:created": "Mon Jun 28 2021 08:19:01 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"kylie-lips-fabric-face-mask-ks217": {
+"jcr:created": "Mon Jun 28 2021 08:19:04 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"rose-body-scrub-ks212": {
+"jcr:created": "Mon Jun 28 2021 08:19:05 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"kylie-skin-set-kskit107": {
+"jcr:created": "Mon Jun 28 2021 08:19:05 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"kylie-logo-fabric-face-mask-ks218": {
+"jcr:created": "Mon Jun 28 2021 08:19:05 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"vanilla-milk-toner-ks106": {
+"jcr:created": "Mon Jun 28 2021 08:19:06 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"foaming-face-wash-ks102": {
+"jcr:created": "Mon Jun 28 2021 08:19:07 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"broad-spectrum-spf-40-face-sunscreen-ks152": {
+"jcr:created": "Mon Jun 28 2021 08:19:07 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"walnut-face-scrub-ks105": {
+"jcr:created": "Mon Jun 28 2021 08:19:08 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"coconut-body-wash-ks190": {
+"jcr:created": "Mon Jun 28 2021 08:19:08 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"kylie-skin-travel-bag-ks109": {
+"jcr:created": "Mon Jun 28 2021 08:19:09 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"clarifying-facial-oil-ks179": {
+"jcr:created": "Mon Jun 28 2021 08:19:10 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"broad-spectrum-spf-30-sunscreen-oil-ks112": {
+"jcr:created": "Mon Jun 28 2021 08:19:11 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"kylie-skin-hand-mirror-ks169": {
+"jcr:created": "Mon Jun 28 2021 08:19:11 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"vitamin-c-serum-ks104": {
+"jcr:created": "Mon Jun 28 2021 08:19:12 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"detox-face-mask-ks165": {
+"jcr:created": "Mon Jun 28 2021 08:19:14 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"clear-complexion-correction-stick-ks149": {
+"jcr:created": "Mon Jun 28 2021 08:19:14 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"makeup-removing-wipes-ks108": {
+"jcr:created": "Mon Jun 28 2021 08:19:15 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"eye-cream-ks101": {
+"jcr:created": "Mon Jun 28 2021 08:19:17 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"4-piece-mini-set-ks172": {
+"jcr:created": "Mon Jun 28 2021 08:19:17 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"hydrating-lip-mask-ks113": {
+"jcr:created": "Mon Jun 28 2021 08:19:18 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"hydrating-face-mask-ks114": {
+"jcr:created": "Mon Jun 28 2021 08:19:19 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"coconut-body-scrub-ks111": {
+"jcr:created": "Mon Jun 28 2021 08:19:19 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"hyaluronic-acid-serum-ks153": {
+"jcr:created": "Mon Jun 28 2021 08:19:20 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"kylie-lips-travel-case-ks188": {
+"jcr:created": "Mon Jun 28 2021 08:19:22 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"sugar-lip-scrub-ks148": {
+"jcr:created": "Mon Jun 28 2021 08:19:22 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"face-moisturizer-ks103": {
+"jcr:created": "Mon Jun 28 2021 08:19:23 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"kylie-skin-headband-141-ks-fng": {
+"jcr:created": "Mon Jun 28 2021 08:19:24 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"Kylie_Skin_Set_With_Bag": {
+"jcr:created": "Fri Jun 25 2021 09:34:15 GMT+0000",
+"jcr:createdBy": "karolien.vanherp@capgemini.com",
+"jcr:primaryType": "cq:Page"
+},
+"RoseBathCollectionCandleBundle": {
+"jcr:created": "Fri Jun 25 2021 09:34:16 GMT+0000",
+"jcr:createdBy": "karolien.vanherp@capgemini.com",
+"jcr:primaryType": "cq:Page"
+},
+"RoseBathCollectionTrioBundle": {
+"jcr:created": "Fri Jun 25 2021 09:34:16 GMT+0000",
+"jcr:createdBy": "karolien.vanherp@capgemini.com",
+"jcr:primaryType": "cq:Page"
+},
+"FullRoseBathCollection": {
+"jcr:created": "Fri Jun 25 2021 09:34:16 GMT+0000",
+"jcr:createdBy": "karolien.vanherp@capgemini.com",
+"jcr:primaryType": "cq:Page"
+},
+"SerumBundle": {
+"jcr:created": "Tue Jun 29 2021 19:44:56 GMT+0000",
+"jcr:createdBy": "karolien.vanherp@capgemini.com",
+"jcr:primaryType": "cq:Page"
+},
+"CoconutBodyDuoWithLoofah": {
+"jcr:created": "Tue Jun 29 2021 19:44:56 GMT+0000",
+"jcr:createdBy": "karolien.vanherp@capgemini.com",
+"jcr:primaryType": "cq:Page"
+},
+"TonerReusableClothPadsBundle": {
+"jcr:created": "Tue Jun 29 2021 19:44:56 GMT+0000",
+"jcr:createdBy": "karolien.vanherp@capgemini.com",
+"jcr:primaryType": "cq:Page"
+},
+"Clarifying3PieceBundle": {
+"jcr:created": "Tue Jun 29 2021 19:44:56 GMT+0000",
+"jcr:createdBy": "karolien.vanherp@capgemini.com",
+"jcr:primaryType": "cq:Page"
+},
+"BroadSpectrumSPFBundle": {
+"jcr:created": "Tue Jun 29 2021 19:44:57 GMT+0000",
+"jcr:createdBy": "karolien.vanherp@capgemini.com",
+"jcr:primaryType": "cq:Page"
+},
+"8-PieceMiniSetLipsBagBundle": {
+"jcr:created": "Tue Jun 29 2021 19:44:57 GMT+0000",
+"jcr:createdBy": "karolien.vanherp@capgemini.com",
+"jcr:primaryType": "cq:Page"
+},
+"FullClarifyingCollection": {
+"jcr:created": "Tue Jun 29 2021 19:44:57 GMT+0000",
+"jcr:createdBy": "karolien.vanherp@capgemini.com",
+"jcr:primaryType": "cq:Page"
+},
+"DoubleCleanseBundle": {
+"jcr:created": "Tue Jun 29 2021 19:44:57 GMT+0000",
+"jcr:createdBy": "karolien.vanherp@capgemini.com",
+"jcr:primaryType": "cq:Page"
+},
+"DetoxFaceMaskBrush": {
+"jcr:created": "Tue Jun 29 2021 19:44:57 GMT+0000",
+"jcr:createdBy": "karolien.vanherp@capgemini.com",
+"jcr:primaryType": "cq:Page"
+},
+"LipBalm5-PieceSetSugarLipScrubBundle": {
+"jcr:created": "Tue Jun 29 2021 19:44:58 GMT+0000",
+"jcr:createdBy": "karolien.vanherp@capgemini.com",
+"jcr:primaryType": "cq:Page"
+},
+"HairTowelHeadbandBundle_msm_moved": {
+"jcr:created": "Tue Nov 23 2021 15:31:10 GMT+0000",
+"jcr:createdBy": "kristof.de-nolf@capgemini.com",
+"jcr:primaryType": "cq:Page"
+},
+"HairTowelHeadbandBundle": {
+"jcr:created": "Tue Nov 23 2021 15:52:19 GMT+0000",
+"jcr:createdBy": "Stephanie_Smith@cotyinc.com",
+"jcr:primaryType": "cq:Page"
+},
+"HairAccessoriesBundle": {
+"jcr:created": "Tue Jun 29 2021 19:44:58 GMT+0000",
+"jcr:createdBy": "karolien.vanherp@capgemini.com",
+"jcr:primaryType": "cq:Page"
+},
+"SugarLipScrubLipMaskBundle": {
+"jcr:created": "Tue Jun 29 2021 19:44:58 GMT+0000",
+"jcr:createdBy": "karolien.vanherp@capgemini.com",
+"jcr:primaryType": "cq:Page"
+},
+"SanitizerandHandCreamBundle": {
+"jcr:created": "Tue Jun 29 2021 19:44:59 GMT+0000",
+"jcr:createdBy": "karolien.vanherp@capgemini.com",
+"jcr:primaryType": "cq:Page"
+},
+"PouchLipsTrioBundle": {
+"jcr:created": "Tue Jun 29 2021 19:44:59 GMT+0000",
+"jcr:createdBy": "karolien.vanherp@capgemini.com",
+"jcr:primaryType": "cq:Page"
+},
+"LipsTravelCase4-PieceMiniBundle": {
+"jcr:created": "Tue Jun 29 2021 19:44:59 GMT+0000",
+"jcr:createdBy": "karolien.vanherp@capgemini.com",
+"jcr:primaryType": "cq:Page"
+},
+"CoconutBathBodyBundle": {
+"jcr:created": "Tue Jun 29 2021 19:44:59 GMT+0000",
+"jcr:createdBy": "karolien.vanherp@capgemini.com",
+"jcr:primaryType": "cq:Page"
+},
+"RoseBathBodyBundle": {
+"jcr:created": "Tue Jun 29 2021 19:45:00 GMT+0000",
+"jcr:createdBy": "karolien.vanherp@capgemini.com",
+"jcr:primaryType": "cq:Page"
+},
+"loofah-ks167": {
+"jcr:created": "Tue Jun 29 2021 19:45:00 GMT+0000",
+"jcr:createdBy": "karolien.vanherp@capgemini.com",
+"jcr:primaryType": "cq:Page"
+},
+"coconut-body-wash-rose-body-lotion-duo": {
+"jcr:created": "Thu Jul 08 2021 17:56:12 GMT+0000",
+"jcr:createdBy": "Stephanie_Smith@cotyinc.com",
+"jcr:primaryType": "cq:Page"
+},
+"lips-trio": {
+"jcr:created": "Wed Jul 14 2021 18:51:44 GMT+0000",
+"jcr:createdBy": "Stephanie_Smith@cotyinc.com",
+"jcr:primaryType": "cq:Page"
+},
+"face-mask-brush-kseu-208": {
+"jcr:created": "Mon Aug 02 2021 21:28:35 GMT+0000",
+"jcr:createdBy": "Stephanie_Smith@cotyinc.com",
+"jcr:primaryType": "cq:Page"
+},
+"hand-cleanser-kseu-312": {
+"jcr:created": "Mon Nov 22 2021 18:21:29 GMT+0000",
+"jcr:createdBy": "Stephanie_Smith@cotyinc.com",
+"jcr:primaryType": "cq:Page"
+},
+"visor-ks354": {
+"jcr:created": "Wed Aug 04 2021 14:42:53 GMT+0000",
+"jcr:createdBy": "Stephanie_Smith@cotyinc.com",
+"jcr:primaryType": "cq:Page"
+},
+"body-brush-ks380": {
+"jcr:created": "Wed Aug 04 2021 14:58:21 GMT+0000",
+"jcr:createdBy": "Stephanie_Smith@cotyinc.com",
+"jcr:primaryType": "cq:Page"
+},
+"lip-balm-set-ks193": {
+"jcr:created": "Wed Aug 11 2021 18:18:54 GMT+0000",
+"jcr:createdBy": "Yeeyee_Liu@cotyinc.com",
+"jcr:primaryType": "cq:Page"
+},
+"mini-fridge-starter-bundle": {
+"jcr:created": "Mon Aug 16 2021 18:57:04 GMT+0000",
+"jcr:createdBy": "Stephanie_Smith@cotyinc.com",
+"jcr:primaryType": "cq:Page"
+},
+"prep-those-pores-glam-skin-kit": {
+"jcr:created": "Mon Aug 30 2021 20:30:39 GMT+0000",
+"jcr:createdBy": "Stephanie_Smith@cotyinc.com",
+"jcr:primaryType": "cq:Page"
+},
+"wake-up-my-eyes-glam-skin-kit": {
+"jcr:created": "Mon Aug 30 2021 20:29:29 GMT+0000",
+"jcr:createdBy": "Stephanie_Smith@cotyinc.com",
+"jcr:primaryType": "cq:Page"
+},
+"good-night-skin-glam-skin-kit": {
+"jcr:created": "Mon Aug 30 2021 20:29:47 GMT+0000",
+"jcr:createdBy": "Stephanie_Smith@cotyinc.com",
+"jcr:primaryType": "cq:Page"
+},
+"lip-oil-duo": {
+"jcr:created": "Wed Sep 29 2021 22:30:33 GMT+0000",
+"jcr:createdBy": "Stephanie_Smith@cotyinc.com",
+"jcr:primaryType": "cq:Page"
+},
+"coconut-collection-body-brush-bundle": {
+"jcr:created": "Wed Sep 29 2021 22:33:38 GMT+0000",
+"jcr:createdBy": "Stephanie_Smith@cotyinc.com",
+"jcr:primaryType": "cq:Page"
+},
+"watermelon-lip-oil-ks360": {
+"jcr:created": "Mon Oct 04 2021 20:25:58 GMT+0000",
+"jcr:createdBy": "Yeeyee_Liu@cotyinc.com",
+"jcr:primaryType": "cq:Page"
+},
+"clear-and-clarify-mini-set-ks384": {
+"jcr:created": "Wed Oct 06 2021 17:25:24 GMT+0000",
+"jcr:createdBy": "Stephanie_Smith@cotyinc.com",
+"jcr:primaryType": "cq:Page"
+},
+"hydrate-and-glow-mini-set-ks385": {
+"jcr:created": "Wed Oct 06 2021 17:25:47 GMT+0000",
+"jcr:createdBy": "Stephanie_Smith@cotyinc.com",
+"jcr:primaryType": "cq:Page"
+},
+"mini-makeup-melting-cleanser-ks381": {
+"jcr:created": "Mon Oct 18 2021 15:46:57 GMT+0000",
+"jcr:createdBy": "Stephanie_Smith@cotyinc.com",
+"jcr:primaryType": "cq:Page"
+},
+"makeup-melting-cleanser-pr-box-ks376": {
+"jcr:created": "Mon Oct 18 2021 15:46:44 GMT+0000",
+"jcr:createdBy": "Stephanie_Smith@cotyinc.com",
+"jcr:primaryType": "cq:Page"
+},
+"holiday-collection-travel-size-face-moisturizer-ornament-ks350": {
+"jcr:created": "Thu Nov 04 2021 19:18:00 GMT+0000",
+"jcr:createdBy": "Stephanie_Smith@cotyinc.com",
+"jcr:primaryType": "cq:Page"
+},
+"holiday-collection-lip-balm-set-ks343": {
+"jcr:created": "Thu Nov 04 2021 19:15:41 GMT+0000",
+"jcr:createdBy": "Stephanie_Smith@cotyinc.com",
+"jcr:primaryType": "cq:Page"
+},
+"holiday-collection-scrunchies-kc471": {
+"jcr:created": "Fri Nov 05 2021 13:05:29 GMT+0000",
+"jcr:createdBy": "Stephanie_Smith@cotyinc.com",
+"jcr:primaryType": "cq:Page"
+},
+"holiday-collection-kylies-beauty-secrets-holiday-set-ks351": {
+"jcr:created": "Mon Nov 08 2021 19:14:24 GMT+0000",
+"jcr:createdBy": "Stephanie_Smith@cotyinc.com",
+"jcr:primaryType": "cq:Page"
+},
+"holiday-collection-kylies-glam-beauty-kit-kc484": {
+"jcr:created": "Mon Nov 08 2021 19:02:34 GMT+0000",
+"jcr:createdBy": "Stephanie_Smith@cotyinc.com",
+"jcr:primaryType": "cq:Page"
+},
+"kylie-skin-led-mirror-ks309": {
+"jcr:created": "Wed Dec 15 2021 08:00:14 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"clarifying-exfoliating-toner-ks333": {
+"jcr:created": "Wed Dec 15 2021 08:00:31 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"mini-clarifying-exfoliating-toner-ks383": {
+"jcr:created": "Wed Dec 15 2021 08:00:48 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"mini-clarifying-serum-ks362": {
+"jcr:created": "Wed Dec 15 2021 08:00:50 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+},
+"clarifying-serum-ks361": {
+"jcr:created": "Wed Dec 15 2021 08:01:33 GMT+0000",
+"jcr:createdBy": "smith-service-admin",
+"jcr:primaryType": "cq:Page"
+}
+}
